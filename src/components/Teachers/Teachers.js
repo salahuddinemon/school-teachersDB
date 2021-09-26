@@ -38,7 +38,7 @@ const Teachers = () => {
                 }
             </div>
             <div className='total-container'>
-                <Cart person={person} key={person.key}></Cart>
+                <Cart person={person}</Cart>
             </div>
 
         </div>
