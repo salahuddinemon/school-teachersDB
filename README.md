@@ -14,13 +14,13 @@
   
 ## API Reference
 
-#### Get all item
+
 - This projects used to a local & fake API. 
 
 - Hints: public/fakedb.json
 
   
-## Technolgy Used This Project
+## Technol0gy Used This Project
 
 - React js
 - Bootstrap
