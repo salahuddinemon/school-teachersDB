@@ -1,0 +1,15 @@
+.card-container{    
+    border: 1px solid red;
+    border-radius: 5px;
+    margin: 5px;
+}
+.card-body{
+    background-color: rgba(255, 229, 229, 0.541);
+}
+.btn-style{
+    background-color: rgb(252, 177, 85);
+    padding-right: 10px;
+}
+.btn-style:hover{
+    background-color: rgb(250, 137, 0);
+}
