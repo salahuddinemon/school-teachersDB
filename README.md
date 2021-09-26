@@ -20,7 +20,7 @@
 - Hints: public/fakedb.json
 
   
-## Tecnnolgy Used This Project
+## Technolgy Used This Project
 
 - React js
 - Bootstrap
