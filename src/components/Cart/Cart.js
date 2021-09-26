@@ -29,7 +29,7 @@ const Cart = (props) => {
                     <h4 className="list-group-item bolder"><FontAwesomeIcon icon={faUser} /> Selected Teacher's</h4>
                     <ol>
                         {personName.map((name) => (
-                            <li key={person.key}>{name}</li>
+                            <li>{name}</li>
                         ))}
                     </ol>
                 </ul>
