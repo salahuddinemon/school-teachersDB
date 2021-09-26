@@ -1,7 +1,9 @@
+/* display data with grip  */
 .teachers-container{
     display: grid;
     grid-template-columns: 3fr 1fr;
 }
+/* cards column & row style  */
 .teacher-container{
     border-right:1px solid darkgray;
     margin-right: 5px;

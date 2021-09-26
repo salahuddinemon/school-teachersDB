@@ -1,5 +1,20 @@
-/* .display-selectName{
-    border: 1px solid goldenrod;
-    display:block;
+/* whole rigt side cart style  */
+.cart-container{
+    margin-top: 7px;
+    margin-right: 5px;
+}
 
-} */
+/* up part of the cart style  */
+.cart-total{
+    border:1px solid rgb(153, 147, 147);
+    border-radius: 3px;
+    background-color: rgba(255, 229, 229, 0.541);
+    margin-bottom: 20px;
+}
+
+/* display selected name style  */
+.selected-name{
+    border:1px solid rgb(153, 147, 147);
+    border-radius: 3px;
+    background-color: rgba(255, 229, 229, 0.541);
+}
