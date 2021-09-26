@@ -8,7 +8,7 @@
         "schoolName": "Willow School Of Business",
         "age": "31",
         "area": "Hempholme",
-        "Salary": "$3500"
+        "Salary": "3500"
     },
     {
         "key": "GN0uDpSqKU",
@@ -19,7 +19,7 @@
         "schoolName": "Mountainview Middle School",
         "age": "32",
         "area": "Gramsby",
-        "Salary": "$4000"
+        "Salary": "4000"
     },
     {
         "key": "8OsQmaDO8N",
@@ -30,7 +30,7 @@
         "schoolName": "Cape Coral Charter School",
         "age": "29",
         "area": "Firebend",
-        "Salary": "$3300"
+        "Salary": "3300"
     },
     {
         "key": "03tVvZsA9M",
@@ -41,7 +41,7 @@
         "schoolName": "Silver Valley School for Boys",
         "age": "34",
         "area": "Orilon",
-        "Salary": "$3700"
+        "Salary": "3700"
     },
     {
         "key": "ZX8buOWZEV",
@@ -52,7 +52,7 @@
         "schoolName": "Grand Mountain Charter School",
         "age": "28",
         "area": "Ballingsmallard",
-        "Salary": "$3300"
+        "Salary": "3300"
     },
     {
         "key": "8MFa3Drles",
@@ -63,7 +63,7 @@
         "schoolName": "Bear Valley Technical School",
         "age": "25",
         "area": "Chesterfield",
-        "Salary": "$3000"
+        "Salary": "3000"
     },
     {
         "key": "Zx8buOWZ5V",
@@ -74,7 +74,7 @@
         "schoolName": "Grand Mountain Charter School",
         "age": "27",
         "area": "Brahmanbaria",
-        "Salary": "$3600"
+        "Salary": "3600"
     },
     {
         "key": "Zx8bu0Wy5V",
@@ -85,6 +85,6 @@
         "schoolName": "Iqra Chartered School",
         "age": "39",
         "area": "Dhaka",
-        "Salary": "$4100"
+        "Salary": "4100"
     }
 ]

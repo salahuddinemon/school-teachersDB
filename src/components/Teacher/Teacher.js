@@ -4,7 +4,7 @@ import { faUserPlus } from '@fortawesome/free-solid-svg-icons'
 import './Teacher.css';
 
 const Teacher = (props) => {
-    console.log(props.teacher);
+    // console.log(props);
     const { img, name, Salary, area, position, schoolName, gender } = props.teacher;
     return (
         <div className='card-container'>
@@ -18,10 +18,12 @@ const Teacher = (props) => {
                             <h6>Gender: {gender}</h6>
                             <h6>School Name: {schoolName}</h6>
                             <h6>Address: {area}</h6>
-                            <h6>Salary: {Salary}</h6>
+                            <h6>Salary: ${Salary}</h6>
                             <hr />
                             <div class="col-6 mx-auto">
-                                <button class="btn btn-style" type="button"><FontAwesomeIcon icon={faUserPlus} /> Add To Cart</button>
+                                <button
+                                    onClick={() => props.handleAddToCart(props.teacher)}
+                                    class="btn btn-style" type="button"><FontAwesomeIcon icon={faUserPlus} /> Add To Cart</button>
                             </div>
                         </div>
                     </div>
